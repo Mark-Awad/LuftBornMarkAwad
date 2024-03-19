@@ -1,0 +1,69 @@
+{
+    "users":[
+    {
+      "id": 1,
+      "username": "mark_awad",
+      "passwordHash": "1234",
+      "fullname": "mark awad",
+      "phone": "012012",
+      "email": "mark@test.com",
+      "roleID": 4,
+      "role": {
+        "id": 4,
+        "roleName": "Admin"
+      }
+    },
+    {
+      "id": 2,
+      "username": "mark_awad",
+      "passwordHash": "1234",
+      "fullname": "mark awad",
+      "phone": "012012",
+      "email": "mark@test.com",
+      "roleID": 4,
+      "role": {
+        "id": 4,
+        "roleName": "Admin"
+      }
+    },
+    {
+      "id": 3,
+      "username": "string",
+      "passwordHash": "string",
+      "fullname": "string",
+      "phone": "string",
+      "email": "string",
+      "roleID": 4,
+      "role": {
+        "id": 4,
+        "roleName": "Admin"
+      }
+    },
+    {
+      "id": 5,
+      "username": "string",
+      "passwordHash": "string",
+      "fullname": "string",
+      "phone": "string",
+      "email": "string",
+      "roleID": 4,
+      "role": {
+        "id": 4,
+        "roleName": "Admin"
+      }
+    },
+    {
+      "id": 6,
+      "username": "string",
+      "passwordHash": "string",
+      "fullname": "string",
+      "phone": "string",
+      "email": "string",
+      "roleID": 6,
+      "role": {
+        "id": 6,
+        "roleName": "User"
+      }
+    }
+  ]
+}
